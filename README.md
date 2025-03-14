@@ -16,10 +16,10 @@ Dự án "CNN-Sentiment-Analysis" tập trung vào phát triển phân tích c�
 
 ## Data Liên quan
 >  Có hai loại  DataSet mà chúng tôi đã train với models:
-- `DataSet`: 
-  - Tại đây: [Tại đây](./data/dev.csv) 
-  - Tại đây: [Tại đây](./data/test.csv) 
-  - Tại đây: [Tại đây](./data/train.csv) 
+- `DataS`: 
+  - data [tại đây](./data/data.rar) 
+  
+  ->  Bạn cần giải nén data trước khi  train models
 - `Vectoer`:
   - Link Download vecter: [Tại đây](https://fasttext.cc/docs/en/english-vectors.html)
 
@@ -29,4 +29,4 @@ Dự án "CNN-Sentiment-Analysis" tập trung vào phát triển phân tích c�
 ## overleaf:
 
 
-Trong đây chỉ là nói tổng quan và giải thích Git này chứa những gì và các cấu trúc ( Cách hoạt động của chúng) Bạn có thể xem chi tiết qua ``OverLeaf`` [Tại đâu](https://www.overleaf.com/5117619729jzcxjpwtjgsk#7af68e)"# CNN-Sentiment-Analysis" 
+Trong đây chỉ là nói tổng quan và giải thích Git này chứa những gì và các cấu trúc ( Cách hoạt động của chúng) Bạn có thể xem chi tiết qua ``OverLeaf`` [Tại đây](https://www.overleaf.com/5117619729jzcxjpwtjgsk#7af68e)"# CNN-Sentiment-Analysis" 
