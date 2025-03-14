@@ -30,3 +30,7 @@ Dự án "CNN-Sentiment-Analysis" tập trung vào phát triển phân tích c�
 
 
 Trong đây chỉ là nói tổng quan và giải thích Git này chứa những gì và các cấu trúc ( Cách hoạt động của chúng) Bạn có thể xem chi tiết qua ``OverLeaf`` [Tại đây](https://www.overleaf.com/5117619729jzcxjpwtjgsk#7af68e)"# CNN-Sentiment-Analysis" 
+
+<br>
+<hr>
+<center><h1>Thank You </h1></center>
