@@ -182,7 +182,7 @@ Dự án được phát triển bởi 3 thành viên:
 | Họ và Tên       | Vai trò                  |
 |---------------------------|-----------------------|
 |Đỗ Văn Tuyên | Phát triển toàn bộ mã nguồn , viết overleaf, thuyết trình, tìm kiếm dataset, thiết kế power point|
-| Nguyễn Thành Chung |Hỗ trợ bài tập lớn|
+| Nguyễn Thành Trung |Hỗ trợ bài tập lớn|
 | Bùi Việt Tiến   | Hỗ trợ bài tập lớn|
 
 <br>
